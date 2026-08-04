@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HardwareMonitor/HardwareMonitor.csproj" />
+  <Project Path="hdmandroid/hdmandroid.csproj" />
+</Solution>
